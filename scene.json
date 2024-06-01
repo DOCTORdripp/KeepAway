@@ -1,6 +1,6 @@
 {
     "contact": {
-        "name": "dripp",
+        "name": "DOCTORdripp",
         "email": ""
     },
     "default": {
@@ -10,7 +10,7 @@
         },
         "owner": "",
         "contact": {
-            "name": "doc",
+            "name": "DOCTORdripp",
             "email": ""
         },
         "main": "bin/game.js",
@@ -50,13 +50,13 @@
         }
     },
     "display": {
-        "title": "Keep Away5.3",
+        "title": "Keep Away POC",
         "favicon": "favicon_asset",
-        "description": "",
+        "description": "A proof of concept built entirely in DCL's Web Builder",
         "navmapThumbnail": "scene-thumbnail.png"
     },
     "main": "bin/index.js",
-    "owner": "",
+    "owner": "DOCTORdripp",
     "scene": {
         "parcels": [
             "0,0",
@@ -89,7 +89,7 @@
         "vimeo.com"
 	  ],
 	  "featureToggles": {},
-  "name": "pizzapie",
+  "name": "Keep Away",
     "worldConfiguration": {
 		"name": "pizzapie.dcl.eth",
 		"skyboxConfig": {
